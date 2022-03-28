@@ -100,8 +100,9 @@
 	#aside {display: none;}
 	body {padding: 0;}
 	ul {display: flex; flex-direction: column; }
-	#navigation li a {border: none; }
+	#navigation li a {border: none;}
 	#navigation {margin-top: 85px;}
-	#header {position: fixed; left: 0; right: 0;}
+	#header {position: fixed; left:0; right: 0;}
 	img {padding-right: 10px;}
+	
 }
